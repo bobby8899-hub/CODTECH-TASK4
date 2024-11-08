@@ -11,3 +11,7 @@
 **DURATION:-** SEPTEMBER 20th,2024 to NOVEMBER 20th,2024
 
 **Mentor:-** Neel Santhosh Kumaar
+
+## Overview of the Project:
+### Project Name : ToDo List
+
