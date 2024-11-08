@@ -1,4 +1,4 @@
-# CODTECH-TASK2
+# CODTECH-TASK5
 
 **Name:-** TIRUMALA RATNAKAR
 
@@ -13,5 +13,5 @@
 **Mentor:-** Neel Santhosh Kumaar
 
 ## Overview of the Project:
-### Project Name : ToDo List
+### Project Name : Recipe Finder Application
 
